@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio-Alura</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+    <header>
+        <img src="assets/Logo.png" alt="">
+    </header>
+    <section class="contenido">
+        <textarea class="contenido__texto" id="texto" cols="30" rows="10" placeholder="Ingrese el texto aqui"></textarea>
+
+    <div class="inferior">  
+        <p class="contenido__alerta"> <img src="assets/Alerta.png" alt="">Solo textos mayusculas y minusculas sin acentos</p>
+        <div class="botones">
+            <input type="button" value="Encriptar" class="botones__encriptar" onclick="encriptar()">
+            <input type="button" value="Desencriptar" class="botones__desencriptar" onclick="desencriptar()">
+        </div>
+    </div>  
+    </section>
+    <div class="contenido__cifrado">
+        <div class="contenido__cifrado__contenido">
+        <img src="assets/Muñeco.png" alt="" class="contenido__cifrado__imagen" id="imagen">
+        <p class="contenido__cifrado__titulo" id="titulo">
+            Ningun mensaje fue encontrado</p>
+        <p class="contenido__cifrado__texto" id="parrafo">
+            Ingresa el texto que desees encriptar o Desencriptar</p>
+        <p class="cifrado" id="cifrado"></p>
+    </div>    
+        <button class="boton__copiar" id="copiar" onclick="copiar()">Copiar</button>
+        
+    </div>
+    <footer></footer>
+</body>
+<script src="script/script.js"></script>
+</html>
