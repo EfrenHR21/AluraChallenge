@@ -20,12 +20,7 @@ function encriptar() {
     imagen.src = " ";
     document.getElementById("copiar").style.display = 'block'
     
-  } else {
-    imagen.src = "./img/muñeco.png";
-    titulo.textContent = "Ningún mensaje fue encontrado";
-    parrafo.textContent = "Ingresa el texto que deseas encriptar o desencriptar";
-    swal("Ooops!", "Debes ingresar un texto", "warning");
-  }
+  } 
 }
 
 function copiar(){
@@ -33,6 +28,7 @@ function copiar(){
   let boton = document.getElementById("copiar");
   navigator.clipboard.writeText(textoCifrado.textContent);
   boton.textContent = "Copiado";
+  
 }
 
 
@@ -54,12 +50,7 @@ function desencriptar() {
       titulo.textContent = " ";
       parrafo.textContent = textoCifrado;
       cifrado.textContent = "";
-      imagen.src = " ";
+      imagen.src = " assets/Muñeco.png";
       document.getElementById("copiar").style.display = 'none'
-    } else {
-      imagen.src = "./img/muñeco.png";
-      titulo.textContent = "Ningún mensaje fue encontrado";
-      parrafo.textContent = "Ingresa el texto que deseas encriptar o desencriptar";
-      swal("Ooops!", "Debes ingresar un texto", "warning");
-    }
+    } 
 }

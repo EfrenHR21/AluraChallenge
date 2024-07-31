@@ -92,13 +92,17 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 1% ;
+}
+
+.contenido__cifrado__imagen{
+ padding: 100px 10px 10px 10px;
 }
 
 .contenido__cifrado__contenido{
     display: flex;
     flex-direction: column;
     gap: 16px;
-    padding: 80px 32px 150px 32px;
 }
 
 .contenido__cifrado__titulo{
@@ -131,6 +135,8 @@ header{
     font-size: 16px;
     font-weight: 400;
     display: none;
+    position: relative;
+    top: 60%;
 }
 
 @media (max-width: 1200px){
