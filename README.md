@@ -1,4 +1,5 @@
 <h1 align="center"> Alura Challenge: Encriptador de texto </h1>
+
 ## Índice
 *Título e imagen de portada
 *Insignias
