@@ -42,7 +42,7 @@ Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingres
 - `Funcionalidad 3`: Descifrar texto cifrado 
 
 ## Acceso al Proyecto
-- `Link de GitHub`: <link target="blank" src="https://github.com/EfrenHR21/AluraChallenge.git" ></link>
+- `Link de GitHub`: https://github.com/EfrenHR21/AluraChallenge.git 
 - `Ejecucion de muestra`: https://efrenhr21.github.io/AluraChallenge/
 
 ## Tecnologías utilizadas
