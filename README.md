@@ -27,26 +27,34 @@
 
 ## Insignias
 
+
 ## Descripcion del Proyecto
-Este es mi primer desafio en Alura que consta de un encriptador de texto.
+Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingresas una palabra, le das al boton encriptar y aparecerá cifrado en el espacio a la derecha, además, habilitará un botón para poder copiar el texto cifrado. También puedes decifrarlo si así lo deseas.
 
 ## Estado del Proyecto
-
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
+   </p>
 
 ## Caracteristicas de la aplicacion
-
+- `Funcionalidad 1`: Cifrar el texto escrito
+- `Funcionalidad 2`: Copiar texto cifrado
+- `Funcionalidad 3`: Descifrar texto cifrado 
 
 ## Acceso al Proyecto
-
+- `Link de GitHub`: https://github.com/EfrenHR21/AluraChallenge.git
+- `Ejecucion de muestra`: https://efrenhr21.github.io/AluraChallenge/
 
 ## Tecnologías utilizadas
-
+* HTML
+* CSS
+* JavaScript
 
 ## Personas Contribuyentes
-
+| [<img src="" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Personas-Desarrolladores del Proyecto
-
+| [<img src="" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Licencia
 
