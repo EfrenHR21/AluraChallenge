@@ -21,7 +21,7 @@
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+*[Licencia](#licencia)
 
 *[Conclusión](#conclusión)
 
