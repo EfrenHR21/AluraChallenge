@@ -26,6 +26,7 @@
 *[Conclusión](#conclusión)
 
 ## Insignias
+<img src="https://github.com/user-attachments/assets/964e4d8f-ec1f-4969-bc99-695489ae816d" width="115">
 
 
 ## Descripcion del Proyecto
@@ -51,10 +52,10 @@ Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingres
 * JavaScript
 
 ## Personas Contribuyentes
-[<img src="https://avatars.githubusercontent.com/%3CEfrenHR21%3E" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
+[<img src="https://github.com/user-attachments/assets/f5b90965-52a3-4516-89f7-9ef56430dcc8" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Personas-Desarrolladores del Proyecto
-[<img src="https://avatars.githubusercontent.com/%3CEfrenHR21%3E" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
+[<img src="https://github.com/user-attachments/assets/f5b90965-52a3-4516-89f7-9ef56430dcc8" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Licencia
 La Documentacion (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
