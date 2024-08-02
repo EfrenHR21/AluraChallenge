@@ -51,10 +51,10 @@ Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingres
 * JavaScript
 
 ## Personas Contribuyentes
-| [<img src="" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
+[<img src="https://avatars.githubusercontent.com/%3CEfrenHR21%3E" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Personas-Desarrolladores del Proyecto
-| [<img src="" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
+[<img src="https://avatars.githubusercontent.com/%3CEfrenHR21%3E" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Licencia
 
