@@ -57,6 +57,7 @@ Este es mi primer desafio en Alura que consta de un encriptador de texto. Ingres
 [<img src="https://avatars.githubusercontent.com/%3CEfrenHR21%3E" width=115><br><sub>Efrén Antonio Huamán Reyna</sub>](https://github.com/EfrenHR21) 
 
 ## Licencia
-
+La Documentacion (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
 
 ## Conclusión
+El proyecto contribuyó a mejorar mi habilidad en programacion en HTML, CSS y JS. Además de que me permitirá acceder al curso completo en Alura Latam
